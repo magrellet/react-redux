@@ -6,7 +6,7 @@ import {createStore} from 'redux';
 import allReducers from './reducers';
 import App from './components/App';
 
-//All the app data
+//All the app data, sny data that we wanna store in our application
 const store = createStore(allReducers);//we are not going to edit the store content
 
 

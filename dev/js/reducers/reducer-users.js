@@ -1,3 +1,4 @@
+//Reducer: piece of data that we wanna ise in out application
 export default function(){
     return [
         {
